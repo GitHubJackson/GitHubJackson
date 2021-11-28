@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GitHubJackson
+- 👋 Hi, I’m JacksonZhou
 - 👀 I’m interested in code
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me jacksonzhou52017@gmail.com
