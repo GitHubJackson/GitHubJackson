@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JacksonZhou
 - 👀 I’m interested in code
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me jacksonzhou52017@gmail.com
 
 <!---
