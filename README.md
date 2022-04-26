@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JacksonZhou
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning JS/TS
 - 📫 How to reach me jacksonzhou52017@gmail.com
 
 <!---
