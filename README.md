@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JacksonZhou
+- 👋 Hi, I’m Lucas
 - 🌱 I’m currently learning JS/TS
 - 📫 How to reach me jacksonzhou52017@gmail.com
 
