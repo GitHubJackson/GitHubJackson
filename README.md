@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas
-- 🌱 I’m currently learning JS/TS
+- 🌱 I’m currently learning webgl
 - 📫 How to reach me jacksonzhou52017@gmail.com
 
 <!---
